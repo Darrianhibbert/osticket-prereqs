@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enabled IIS
 - Install Visual Redristributtal C++
 - Install Mysql username and password
+- Install osTicket configure permissions
   
 
 <h2>Installation Steps</h2>
@@ -45,5 +46,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/yZBV61T.png"/>
 </p>
 <p>Installed MySQL and configured the username and password, establishing a secure and reliable database for the osTicket system.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0u23ylF.png"/>
+</p>
+<p>Successfully installed osTicket and configured permissions to ensure secure and efficient system functionality.
 </p>
 <br />
