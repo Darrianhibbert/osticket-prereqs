@@ -51,6 +51,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/0u23ylF.png"/>
+  <img src="https://i.imgur.com/jSCTk9z.png"/>
 </p>
 <p>Successfully installed osTicket and configured permissions to ensure secure and efficient system functionality.
 </p>
